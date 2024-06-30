@@ -1,0 +1,7 @@
+C:\Users\Artem\source\repos\For_ALL_HW\hw_04_07\bin\Debug\hw_04_07.exe.config
+C:\Users\Artem\source\repos\For_ALL_HW\hw_04_07\bin\Debug\hw_04_07.exe
+C:\Users\Artem\source\repos\For_ALL_HW\hw_04_07\bin\Debug\hw_04_07.pdb
+C:\Users\Artem\source\repos\For_ALL_HW\hw_04_07\obj\Debug\hw_04_07.csproj.AssemblyReference.cache
+C:\Users\Artem\source\repos\For_ALL_HW\hw_04_07\obj\Debug\hw_04_07.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\For_ALL_HW\hw_04_07\obj\Debug\hw_04_07.exe
+C:\Users\Artem\source\repos\For_ALL_HW\hw_04_07\obj\Debug\hw_04_07.pdb
